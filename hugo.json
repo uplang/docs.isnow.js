@@ -1,0 +1,21 @@
+{
+  "baseURL": "https://uplang.github.io/docs.isnow.js/",
+  "title": "isnow.js Documentation",
+  "publishDir": "_site",
+  "enableRobotsTXT": true,
+  "markup": {
+    "goldmark": {
+      "renderHooks": {
+        "link": {
+          "useEmbedded": "fallback"
+        },
+        "image": {
+          "useEmbedded": "fallback"
+        }
+      }
+    }
+  },
+  "params": {
+    "description": "The @uplang/isnow JavaScript library for the isnow (DTimpalr) date/time pattern language."
+  }
+}
