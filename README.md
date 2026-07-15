@@ -2,8 +2,4 @@
 
 # docs.isnow.js
 
-Documentation for **[isnow.js](https://github.com/uplang/isnow.js)** — the `@uplang/isnow` JavaScript library for the [isnow](https://github.com/uplang/isnow) (_DTimpalr_) date/time pattern language.
-
-Published at **[uplang.github.io/docs.isnow.js](https://uplang.github.io/docs.isnow.js/)**.
-
-The documentation is a [Hugo](https://gohugo.io) site; content lives in [`content/`](content/). Run `make` for the available targets (`make serve` previews locally). The layout and assets are the fleet-shared docs style distributed from [`nicerobot/template.repo-docs`](https://github.com/nicerobot/template.repo-docs).
+Public documentation site for [`uplang/isnow.js`](https://github.com/uplang/isnow.js), published at [https://uplang.github.io/docs.isnow.js/](https://uplang.github.io/docs.isnow.js/) once public.
