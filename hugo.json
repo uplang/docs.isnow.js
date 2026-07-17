@@ -1,5 +1,5 @@
 {
-  "baseURL": "https://uplang.github.io/docs.isnow.js/",
+  "baseURL": "https://tsvsheet.github.io/docs.isnow.js/",
   "title": "isnow.js Documentation",
   "publishDir": "_site",
   "enableRobotsTXT": true,
@@ -16,6 +16,6 @@
     }
   },
   "params": {
-    "description": "The @uplang/isnow JavaScript library for the isnow (DTimpalr) date/time pattern language."
+    "description": "The @tsvsheet/isnow JavaScript library for the isnow (DTimpalr) date/time pattern language."
   }
 }
